@@ -1,4 +1,4 @@
-Hello [noun]
+Hello TikTok
 
 This is a(n) [adjective] community project to learn git.
 
