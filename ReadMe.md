@@ -1,6 +1,6 @@
 Hello TikTok
 
-This is a(n) [adjective] community project to learn git.
+This is a(n) Goofy community project to learn git.
 
 By [adverb] adding words and phrases to this document you will become 
 
