@@ -2,7 +2,7 @@ Hello TikTok
 
 This is a(n) Goofy community project to learn git.
 
-By [adverb] adding words and phrases to this document you will become 
+By quicly adding words and phrases to this document you will become 
 
 [adjective ending in "ly"] good at commiting
 
